@@ -1,0 +1,29 @@
+Module 2 Lab (45 min): Azure Resource Manager Model - https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/index
+
+Module 3 Lab (45 min): Azure SQL - https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/index
+
+Module 4 Lab (30 min): Azure Web App - Complete the Web App lab from the PDF file located in the share
+
+Module 6 Labs - End-to-End labs
+
+* We will use the labs from https://azuredevopslabs.com/ for End-to-End labs
+
+* Lab 6.1 (60 min): Agile Planning and Portfolio Management with Azure Boards - https://azuredevopslabs.com/labs/azuredevops/agile/
+
+* Lab 6.2 (45 min): Version Controlling with Git in Visual Studio Code and Azure DevOps - https://azuredevopslabs.com/labs/azuredevops/git/
+	IMPORTANT: Skip the third prerequisites of completing Task 1
+
+* Lab 6.2 (15 min): Working with Pull Requests in Visual Studio Code and Azure DevOps - https://azuredevopslabs.com/labs/azuredevops/pullrequests/
+
+* Lab 6.2 (15 min): Enabling Continuous Integration with Azure Pipelines - https://azuredevopslabs.com/labs/azuredevops/continuousintegration/
+	IMPORTANT: Skip the prerequisites and start with Task 1 directly
+
+* Lab 6.2 (45 min): YAML Pipelines - Complete the YAML Pipelines lab from the PDF file located in the share
+
+* Lab 6.3.1 (60 min): Embracing Continuous Delivery with Azure Pipelines - https://azuredevopslabs.com/labs/azuredevops/continuousdeployment/
+	IMPORTANT: Skip the prerequisites and start with Task 1 directly
+
+* Lab 6.3.2 (30 min): Using Secrets from Azure Key Vault in a Pipeline - https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/
+
+* Lab 6.4 (60 min): Monitoring Application Performance with Application Insights - https://azuredevopslabs.com/labs/azuredevops/appinsights/
+	OPTIONAL: As a challenge, instead of following instructions for Task 1 and 2, use those tasks as a reference as perform this lab as a continuation of the previous lab!
